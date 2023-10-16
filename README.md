@@ -66,6 +66,5 @@ You can customize this analysis by adding more features or additional visualizat
 
 ## License
 
-This project is licensed under the [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License. See the [LICENSE.md](LICENSE.md) file for details.
 
--
