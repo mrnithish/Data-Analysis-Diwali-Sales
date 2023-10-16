@@ -5,7 +5,7 @@ This Jupyter Notebook project focuses on the exploratory data analysis (EDA) of 
 
 ## Data Source
 
-The dataset used for this analysis is provided in "data.csv". Make sure you have the dataset file (`data.csv`) available in the same directory as this Jupyter Notebook.
+The dataset used for this analysis is provided in 'data.csv'. Make sure you have the dataset file (`data.csv`) available in the same directory as this Jupyter Notebook.
 
 ## Libraries Used
 
