@@ -51,7 +51,7 @@ The EDA in this Jupyter Notebook covers the following aspects:
 
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/diwali-sales-analysis.git
+   git clone https://github.com/mrnithish/Data-Analysis-Diwali-Sales.git
 
    # Navigate to the project directory
    cd diwali-sales-analysis
